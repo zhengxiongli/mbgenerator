@@ -1,2 +1,2 @@
-# mbgenerator
+# mybatis generator
 mybatis generator gradle
